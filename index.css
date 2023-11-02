@@ -12,7 +12,7 @@ body {
     background-image: url("counter.jpg");
     background-size: cover;
     max-width: 350px;
-    margin: 0 auto;
+    margin: 30px auto;
     border-radius: 5px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
