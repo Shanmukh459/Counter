@@ -6,6 +6,7 @@
 - Deployed at: https://shanmukh-counter.vercel.app/
 
 Screenshot of the application:
+
 ![image](https://github.com/Shanmukh459/Counter/assets/52078988/21cca9ec-c75d-4946-9e9f-457af4703b9a)
 
 Quick start:
